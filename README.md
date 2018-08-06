@@ -1,4 +1,4 @@
-# Maps
+# Maps - Restaurant Ratings Visualizer
 > Written by Lewis Kim
 
 ### Description
